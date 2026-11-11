@@ -1,2 +1,1 @@
-"Updating readme with new project details" 
-More project details 
+Edited directly on GitHub
